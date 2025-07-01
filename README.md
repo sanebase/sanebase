@@ -13,21 +13,27 @@
 
 ---
 
+> 🎉&nbsp; Open-source version coming soon. <u>Star the repo</u> and watch for updates!
+
+---
+
 ### What is Sanebase?
 
-Sanebase simplifies the process of keeping your app in sync with Stripe using techniques and infrastructure that are used in production by established engineering teams serving millions of customers.
+Sanebase simplifies the process of keeping your app in sync with Stripe using techniques and infrastructure that are used in production by established engineering teams.
 
+<a href="https://docs.sanebase.dev/why-sanebase">
 <picture>
   <source srcset="https://raw.githubusercontent.com/sanebase/docs/refs/heads/main/images/sanebase-vs-now-3-dark.png" media="(prefers-color-scheme: dark)">
   <source srcset="https://raw.githubusercontent.com/sanebase/docs/refs/heads/main/images/sanebase-vs-now-3.png" media="(prefers-color-scheme: light)">
   <img src="https://raw.githubusercontent.com/sanebase/docs/refs/heads/main/images/sanebase-vs-now-3.png" alt="Sanebase vs Now">
 </picture>
+</a>
 
-<center style="font-size:0.95rem">
+<div style="text-align:center; font-size:0.95rem">
 
 Sanebase in [Unified Ingest](https://docs.sanebase.dev/sync-modes/choose) sync mode
 
-</center>
+</div>
 
 ---
 
@@ -54,7 +60,7 @@ The cloud service builds on top of the open source core and comes with additiona
 
 Sanebase started as an internal service, and we decided to restructure it and launch it as a product. We want to give developers an open-source option that they can self-host, so we re-built the entire platform around a highly simplified core + plugin architecture. We then re-implemented a simplified version of our [Unified Ingest mode](https://docs.sanebase.dev/sync-modes/unified-ingest/overview) that is easy to self-host and manage at a reasonable cost.
 
-We also offer a free plan in the Cloud service that contains all the features that the open source version has + a lot more, with some limits depending on the amount of revenue processed. You can see the pricing [here](https://sanebase.dev/pricing).
+We also offer a free plan in the Cloud service that contains all the features that the open source version has + a lot more, with some limits depending on the amount of revenue processed. You can see the pricing and read the FAQs [here](https://sanebase.dev/pricing).
 
 You can read more about [Open Source vs Cloud here](https://docs.sanebase.dev/open-source-vs-cloud), including the costs involved to self-host.
 
